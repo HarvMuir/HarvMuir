@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Harvey
+- 👀 I’m interested in basektball and music mainly
+- 🌱 I’m currently learning SQL as I am looking to start a career in data
+- 📫 https://www.linkedin.com/in/harveyjm/
